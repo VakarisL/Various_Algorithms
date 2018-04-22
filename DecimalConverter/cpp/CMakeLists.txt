@@ -6,5 +6,7 @@ add_executable(
 	Dec
 	src/main.cpp
 	src/Number.cpp
+	src/Conversions.cpp
 	src/Headers/Number.h
+	src/Headers/Conversions.h
 )
